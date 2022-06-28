@@ -1,0 +1,20 @@
+.question_container {
+  background-color: rgba(255, 255, 255, 0.15);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0 auto;
+  max-width: 100%;
+  padding: 0 10%;
+  width: 100%;
+}
+
+.question_card_container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 100%;
+  width: 100%;
+}
